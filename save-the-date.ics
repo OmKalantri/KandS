@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
 SUMMARY:Wedding of Kushal & Siddhi💍
-DTSTART;TZID=Asia/Kolkata:20250619T170000
-DTEND;TZID=Asia/Kolkata:20250619T230000
-LOCATION:Beautiful Venue Name, City
+DTSTART;TZID=Asia/Kolkata:20250419T110000
+DTEND;TZID=Asia/Kolkata:20250419T230000
+LOCATION:Hotel Panchvati, Sinnar.
 DESCRIPTION:Join us in celebrating the wedding of Kushal & Siddhi!
 END:VEVENT
 END:VCALENDAR
